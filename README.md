@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niclasankar
-- 👀 I’m interested in programming in swift, php, javascript and VBA
-- 🌱 I’m currently learning more about swift for IOS
+- 👀 I’m interested in programming in C#, PHP, Python, javascript and Java
+- 🌱 I’m currently developing a Python script for emulation of NMEA GNSS device
 
 <!---
 niclasankar/niclasankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
